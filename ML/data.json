@@ -1,0 +1,12 @@
+{
+    "HeartDiseaseorAttack": 0.0,
+    "HighBP": 1.0,
+    "HighChol": 1.0,
+    "CholCheck": 1.0,
+    "BMI": 40.0,
+    "Smoker": 1.0,
+    "Stroke": 1.0,
+    "Diabetes": 1.0,
+    "PhysActivity": 1.0,
+    "Fruits": 1.0
+}
